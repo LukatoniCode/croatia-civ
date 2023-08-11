@@ -1,25 +1,25 @@
 [
 	{
-		"name": "Holodeck",
-		"replaces": "Circus Maximus",
-		"uniqueTo": "Aliens",
-		"cost": 480,
+		"name": "Zagrebačka katedrala",
+		"replaces": "Big Ben",
+		"uniqueTo": "Croatia",
+		"cost": 200,
 		"happiness": 12,
 		"culture": 12,
 		"science": 12,
-		"maintenance": 96,
+		"maintenance": 5,
 		"isNationalWonder": true,
+		"uniques": [Remove extra unhappiness from annexed cities],
 		"requiredBuildingInAllCities": "Colosseum",
-		"requiredTech": "Horseback Riding"
+		"requiredTech": "Industrialization"
 	},
 	{
-		"name": "Breeders",
-		"replaces": "Aqueduct",
-		"uniqueTo": "Aliens",
+		"name": "Hep",
+		"uniqueTo": "Croatia",
 		"cost": 80,
 		"hurryCostModifier": 160,
 		"happiness": 2,
-		"uniques": ["40% of food is carried over after a new citizen is born"],
-		"requiredTech": "Engineering"
+		"uniques": ["Consumes [-5] [Oil]"],
+		"requiredTech": "Biology"
 	}
 ]
