@@ -9,7 +9,7 @@
 		"science": 12,
 		"maintenance": 5,
 		"isNationalWonder": true,
-		"uniques": [Remove extra unhappiness from annexed cities],
+		"uniques": ["Remove extra unhappiness from annexed cities"],
 		"requiredBuildingInAllCities": "Colosseum",
 		"requiredTech": "Industrialization"
 	},
