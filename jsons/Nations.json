@@ -29,7 +29,7 @@
 
 		"outerColor": [255,16,16],
 		"innerColor": [255,255,255],
-		""uniqueName": "Croatian moral",
+		"uniqueName": "Croatian moral",
 		"uniques": ["[+5 Science] from all [Science] buildings", "+[50]% Production when constructing [Hep]",  "[3] Free Technologies"],
 		"cities": ["Zagreb","Split","Rijeka","Osijek","Zadar","Pula","Slavonski brod","Karlovac", "Varaždin",
 			"Šibenik","Velika Gorica","Vinkovci","Sisak","Dubrovnik","Bjelovar","Vukovar","Koprivnica","Solin","Zaprešić",
