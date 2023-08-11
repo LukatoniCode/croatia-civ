@@ -1,38 +1,39 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
+		"name": "Croatia",
+		"leaderName": "King Tomislav",
+		"adjective": ["Cratian"],
+		"startBias": ["Coast"],
 		"preferredVictoryType": "Scientific",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "Pozdrav!",
+		"startIntroPart2": "Croatia is a coastal balkan country.",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": "Taste croatian might!",
+		"attacked": "You will feel the Croatian fury!",
+		"defeated": "Kvragu! We stand defeted.",
+		"introduction": "Pozdrav! We wish to be allies.",
 		
-		"neutralHello": "How are you doing?",
+		"neutralHello": "Pozdrav.",
 		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
 		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
 		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
 
-		"hateHello": "What do you want now?",
+		"hateHello": "Što?! What do you want now?",
 		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
 		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
 		"hateYes": ["That is fine.","That is good enough.","Very well..."],
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"afterPeace": "We meet in peace.",
+		"tradeRequest": "We wish to give you this trade offer.",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"outerColor": [255,16,16],
+		"innerColor": [255,255,255],
+		""uniqueName": "Croatian moral",
+		"uniques": ["[+5 Science] from all [Science] buildings", "+[50]% Production when constructing [Hep]",  "[3] Free Technologies"],
+		"cities": ["Zagreb","Split","Rijeka","Osijek","Zadar","Pula","Slavonski brod","Karlovac", "Varaždin",
+			"Šibenik","Velika Gorica","Vinkovci","Sisak","Dubrovnik","Bjelovar","Vukovar","Koprivnica","Solin","Zaprešić",
+			"Đakovo","Samobor","Požega","Čakovec","Metković","Virovitica","Petrina","Makarska","Kutina","Rovinj",
+			"Dugo Selo","Sinj","Križevci","Punat","Barbat","Krk"]
 	}
 ]
